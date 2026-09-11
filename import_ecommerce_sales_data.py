@@ -3,7 +3,7 @@ from sqlalchemy import create_engine
 from urllib.parse import quote_plus
 
 # Load the Excel file
-excel_path = 'ecommerce_sales_cleaned.xlsx'
+excel_path = 'ecommerce_sales_cleaned_dashboard.xlsx'
 df = pd.read_excel(excel_path)
 
 # Encode the password to handle special characters like '@'
