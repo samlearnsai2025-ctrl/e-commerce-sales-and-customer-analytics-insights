@@ -1,5 +1,9 @@
 # E-Commerce Sales & Customer Analytics Insights
 
+An end-to-end analytics project using SQL and Excel to analyze sales performance, customer segments, products, regions, and payment methods.
+
+**Tools:** SQL | Excel | Data Analysis | Data Visualization
+
 ## Dashboard Overview
 
 - **Total Sales:** ₹9.45M
